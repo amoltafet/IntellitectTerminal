@@ -13,7 +13,7 @@
   <h3 align="center">IntelliTerminal</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    
     <br />
     <br />
     <a href="https://console.intellitect.com">View Console</a>
