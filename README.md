@@ -14,8 +14,6 @@
 
   <p align="center">
     
-    <br />
-    <br />
     <a href="https://console.intellitect.com">View Console</a>
     ·
     <a href="https://github.com/IntelliTect/IntellitectTerminal/issues">Report Bug/Feature</a>
