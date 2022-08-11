@@ -13,7 +13,9 @@
   <h3 align="center">IntelliTerminal</h3>
 
   <p align="center">
-    
+    Awesome Terminal
+    <br />
+    <br />
     <a href="https://console.intellitect.com">View Console</a>
     ·
     <a href="https://github.com/IntelliTect/IntellitectTerminal/issues">Report Bug/Feature</a>
